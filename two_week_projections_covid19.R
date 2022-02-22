@@ -1,4 +1,5 @@
 # Trying to use nano and edit file through terminal 
+# trying another edit
 
 rm(list = ls())
 setwd("/home/laurette/Desktop/Github/smarts/covid20200215")
