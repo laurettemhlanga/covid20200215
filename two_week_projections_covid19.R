@@ -1,3 +1,5 @@
+# Trying to use nano and edit file through terminal 
+
 rm(list = ls())
 setwd("/home/laurette/Desktop/Github/smarts/covid20200215")
 suppressPackageStartupMessages({
