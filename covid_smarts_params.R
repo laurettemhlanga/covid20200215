@@ -2,7 +2,7 @@
 #parameter_bpmodels
 
 n = 1;si_mean = 4.7;si_sd = 2.9
-ni_mean = 2; ni_disp = 0.38; num_sims = 1
+ni_mean = 2; ni_disp = 0.38; num_sims = 5
 
 # data 
 covid19za_timeline_confirmed <- read.csv("https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_timeline_confirmed.csv")
